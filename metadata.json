@@ -1,0 +1,8 @@
+{
+  "name": "MedCore SaaS - Plataforma de Gestão e Telemedicina",
+  "description": "Uma plataforma SaaS completa para gestão de clínicas médicas, incluindo prontuário eletrônico, agendamento inteligente, telemedicina e assistente de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
